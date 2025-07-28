@@ -1,0 +1,30 @@
+#caja1{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+#caja2{
+    background-color: rgb(0, 34, 255);
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+#caja3{
+    background-color: rgb(255, 225, 0);
+    height: 100px;
+    width: 100px;
+}
+#caja4{
+    background-color: rgb(0, 255, 60);
+    height: 100px;
+    width: 100px;
+}
+a{
+    padding: 20px;
+    /* solo permite modificar horizontalmente porque es inlije */
+}
+
+.bordeGrueso{
+    border: 15px solid black;
+}
